@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natnael T. Yilma</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-- 🌱 I’m currently learning **CS Major at HiLCoE School of Computer Science and Tecnology**
+- 🌱 I’m currently learning **CS Major at Unity University**
 
 - 📫 How to reach me **nattysec26@gmail.com**
 
